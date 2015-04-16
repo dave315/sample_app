@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
   
   def my_home
   end
+  
+  def contact
+  end
 end
